@@ -1,0 +1,14 @@
+{
+  "graph_elapsed_time": {
+    "lower": 0.03126115894317627,
+    "upper": 0.20903041975291945
+  },
+  "max_degree": {
+    "lower": 3.88,
+    "upper": 16.48
+  },
+  "num_edges": {
+    "lower": 16.19,
+    "upper": 77.31
+  }
+}
